@@ -21,7 +21,7 @@ An interactive Power BI dashboard created to analyze IPL match and player perfor
 
 ## 🖼️ Dashboard Preview
 
-![IPL Power BI Dashboard](./IPL dashboard.png)
+![IPL Power BI Dashboard](./IPL-Dashboard.png)
 
 ## 📁 Project Files
 
