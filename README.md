@@ -1,33 +1,34 @@
-# IPL Power BI Dashboard
+# 📊 Power BI Dashboard Portfolio
 
-## 📊 Project Overview
+Welcome to my Power BI portfolio.
 
-An interactive Power BI dashboard created to analyze IPL match and player performance data.
+This repository contains my data analytics projects created using Power BI, Power Query, DAX, and data-cleaning techniques.
 
-## 🛠️ Tools Used
+## 📁 Projects
+
+### 🏏 IPL Power BI Dashboard
+
+An interactive dashboard for analyzing IPL match and player performance data.
+
+**Tools:** Power BI, Power Query, DAX
+
+👉 [View Project](./IPL-PowerBI-Dashboard/)
+
+---
+
+### 📊 More Dashboards
+
+Additional Power BI projects will be added to this repository as I continue building my data analytics portfolio.
+
+## 🛠️ Skills
 
 * Power BI
 * Power Query
 * DAX
-* Data Cleaning & Transformation
+* Data Cleaning
+* Data Visualization
+* Data Analysis
 
-## 📈 Dashboard Features
+## 🎯 Career Goal
 
-* Team-wise performance analysis
-* Player performance analysis
-* Match statistics
-* Season-wise analysis
-* Interactive filters and visualizations
-
-## 🖼️ Dashboard Preview
-
-![IPL Power BI Dashboard](./IPL-Dashboard.png)
-
-## 📁 Project Files
-
-* `IPL_Dashboard.pbix` — Power BI dashboard file
-* `IPL-Dashboard.png` — Dashboard preview
-
-## 🎯 Objective
-
-The objective of this project is to transform IPL data into an interactive dashboard and generate meaningful insights through data visualization.
+Building practical data analytics projects to develop skills in data cleaning, analysis, visualization, and business insights.
